@@ -16,6 +16,7 @@ public class Function
     /// <returns></returns>
     public string FunctionHandler(string input, ILambdaContext context)
     {
+        context.Logger.Log($"Got a new message {input}");
         return input.ToUpper();
     }
 }
