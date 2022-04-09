@@ -1,12 +1,5 @@
 # AWS_LambdaIntroductory
 
-https://github.com/OmidNaghizadeh1355/AWS_LambdaIntroductory/wiki
+Welcome to the AWS_LambdaIntroductory wiki! This repository mostly prepare a very basic project, ready to deploy to AWS server as Lambda function.
 
-> Creat new account on AWS
-> 
-> Instal AWS CLI
-> 
-> Install AWS Visual Studio Tool
-> 
-> Install Amazon Lamda Template
-> 
+https://github.com/OmidNaghizadeh1355/AWS_LambdaIntroductory/wiki
